@@ -35,9 +35,6 @@ A responsive multi-outlet food service web application built to showcase menu of
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Portfolio Integration](#) *(Update with your Vercel or GitHub Pages link once deployed)*
 
 ---
 
